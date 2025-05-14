@@ -1,5 +1,13 @@
 # JKFLIPFLOP-USING-IF-ELSE
 
+
+
+NAME: SONA .S
+
+
+RegisterNumber:212224110049
+
+
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
@@ -63,22 +71,17 @@ end
 endmodule
 ```
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-
-Developed by: SONA .S
-
-
-RegisterNumber:212224110049
-*/
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot (35)](https://github.com/user-attachments/assets/35c7bb9d-f6f4-48c0-85b7-cc382321b658)
+![WhatsApp Image 2025-05-14 at 10 05 55_07d27d11](https://github.com/user-attachments/assets/df73f581-79b4-467c-b852-fea6fa371579)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/9c565602-2580-4e4e-8353-3b7b9813d879)
+![WhatsApp Image 2025-05-14 at 10 05 22_ac8c2afd](https://github.com/user-attachments/assets/cea5fc84-295e-4527-8c3d-80f5488302a9)
+
 
 **RESULTS**
 
